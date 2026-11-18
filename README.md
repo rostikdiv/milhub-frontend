@@ -1,6 +1,5 @@
 # 🛡️ MilHub Web Platform
 
-[![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-black.svg?logo=vercel)](https://milhub-frontend.vercel.app)
 [![React](https://img.shields.io/badge/React-18-blue.svg?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5.0-purple.svg?logo=vite)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg?logo=typescript)](https://www.typescriptlang.org/)
@@ -8,9 +7,9 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0-ff0055.svg?logo=framer)](https://www.framer.com/motion/)
 [![Vitest](https://img.shields.io/badge/Vitest-Tested-yellow.svg?logo=vitest)](https://vitest.dev/)
 
-* **Live Web Application (Vercel)**: [https://milhub-frontend.vercel.app](https://milhub-frontend.vercel.app)
-* **Production API Gateway (Backend)**: [https://milhub-api-gateway-258044247462.us-central1.run.app](https://milhub-api-gateway-258044247462.us-central1.run.app)
-* **Backend Microservices Repository**: [https://github.com/rostikdiv/milhub-microservices.git](https://github.com/rostikdiv/milhub-microservices.git)
+* **Backend Microservices Repository**: [https://github.com/rostikdiv/milhub-microservices](https://github.com/rostikdiv/milhub-microservices)
+
+> ☁️ **Deployment Note:** The GCP cloud environment (Cloud Run, Cloud SQL, Compute Engine, MongoDB Atlas) and Vercel frontend were provisioned via Terraform/CI-CD and verified in production, and are currently **paused** to avoid ongoing cloud costs. See the interface showcase below or launch the full stack locally.
 
 ---
 
